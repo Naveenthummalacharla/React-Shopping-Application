@@ -1,0 +1,28 @@
+
+  \{^_^}/ hi!
+
+  Loading data.json
+  Done
+
+  Resources
+  http://localhost:1234/account
+  http://localhost:1234/orderlist
+  http://localhost:1234/cartlist
+  http://localhost:1234/productlist
+
+  Home
+  http://localhost:1234
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+[0mGET /productlist [32m200[0m 18.623 ms - -[0m
+[0mGET /productlist [36m304[0m 34.986 ms - -[0m
+[0mGET /cartlist [32m200[0m 23.889 ms - 468[0m
+[0mGET /cartlist [36m304[0m 26.317 ms - -[0m
+[0mGET /productlist [36m304[0m 21.606 ms - -[0m
+[0mGET /productlist [36m304[0m 24.508 ms - -[0m
+[0mGET /cartlist [36m304[0m 20.725 ms - -[0m
+[0mGET /cartlist [36m304[0m 12.056 ms - -[0m
+[0mGET /productlist [36m304[0m 22.946 ms - -[0m
+[0mGET /productlist [36m304[0m 27.458 ms - -[0m

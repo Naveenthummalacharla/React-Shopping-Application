@@ -1,0 +1,222 @@
+{
+  "account": [
+    {
+      "fullname": "Naveen Thummalacharla",
+      "mobileno": "9440025417",
+      "email": "naveen2001255@gmail.com",
+      "password": "123",
+      "address": "saalipeta,5-21,lakshmipuram\nsaalipeta,5-21,lakshmipuram\nsaalipeta,5-21,lakshmipuram",
+      "pincode": "521126",
+      "id": "1"
+    },
+    {
+      "id": "2147",
+      "fullname": "sahil",
+      "mobileno": "7396421896",
+      "email": "naveen2001255@gmail.com",
+      "password": "Naveen",
+      "address": "saalipeta,5-21,lakshmipuram\nsaalipeta,5-21,lakshmipuram\nsaalipeta,5-21,lakshmipuram",
+      "pincode": "521126"
+    }
+  ],
+  "orderlist": [
+    {
+      "custometname": "Naveen Thummalacharla",
+      "mobile": "9440025417",
+      "email": "naveen2001255@gmail.com",
+      "address": "saalipeta",
+      "itemlist": [
+        {
+          "id": 15,
+          "name": "Watches",
+          "photo": "pl11.jpg",
+          "details": "Best for Mens",
+          "price": 599,
+          "sellerid": "1",
+          "qty": 1
+        },
+        {
+          "id": 14,
+          "name": "Shoes",
+          "photo": "pl10.jpeg",
+          "details": "Sutable for Mens",
+          "price": 500,
+          "sellerid": "1",
+          "qty": 1
+        },
+        {
+          "id": 11,
+          "name": "Mobile",
+          "photo": "pl7.jpeg",
+          "details": "Best of Women",
+          "price": 599,
+          "sellerid": "1",
+          "qty": 1
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "id": "7fcd",
+      "custometname": "Naveen Thummalacharla",
+      "mobile": "09440025417",
+      "email": "naveen2001255@gmail.com",
+      "address": "gvbnm,",
+      "itemlist": [
+        {
+          "id": "15",
+          "name": "Watches",
+          "photo": "pl11.jpg",
+          "details": "Best for Mens",
+          "price": 599,
+          "sellerid": "1",
+          "qty": 1
+        },
+        {
+          "id": "14",
+          "name": "Shoes",
+          "photo": "pl10.jpeg",
+          "details": "Sutable for Mens",
+          "price": 500,
+          "sellerid": "1",
+          "qty": 1
+        },
+        {
+          "id": "11",
+          "name": "Mobile",
+          "photo": "pl7.jpeg",
+          "details": "Best of Women",
+          "price": 599,
+          "sellerid": "1",
+          "qty": 2
+        }
+      ]
+    }
+  ],
+  "cartlist": [
+    {
+      "id": "15",
+      "name": "Watches",
+      "photo": "pl11.jpg",
+      "details": "Best for Mens",
+      "price": 599,
+      "sellerid": "1",
+      "qty": 1
+    },
+    {
+      "id": "14",
+      "name": "Shoes",
+      "photo": "pl10.jpeg",
+      "details": "Sutable for Mens",
+      "price": 500,
+      "sellerid": "1",
+      "qty": 1
+    },
+    {
+      "id": "11",
+      "name": "Mobile",
+      "photo": "pl7.jpeg",
+      "details": "Best of Women",
+      "price": 599,
+      "sellerid": "1",
+      "qty": 2
+    }
+  ],
+  "productlist": [
+    {
+      "id": "3",
+      "name": "Orange",
+      "price": 350,
+      "photo": "3.jpg",
+      "details": "this is imported orange",
+      "sellerid": "1"
+    },
+    {
+      "id": "4",
+      "name": "Graps",
+      "price": 100,
+      "photo": "4.jpg",
+      "details": "this is imported graps",
+      "sellerid": "1"
+    },
+    {
+      "id": "6",
+      "name": "Monitors",
+      "photo": "pl2.webp",
+      "details": "Top Monitors Sales",
+      "price": 99000,
+      "sellerid": "1"
+    },
+    {
+      "id": "7",
+      "name": "Printers",
+      "photo": "pl3.jpeg",
+      "details": "Best Printers",
+      "price": 2336,
+      "sellerid": "1"
+    },
+    {
+      "id": "9",
+      "name": "PowerBank",
+      "photo": "pl5.jpg",
+      "details": "Primium PowerBanks",
+      "price": 300,
+      "sellerid": "1"
+    },
+    {
+      "id": "10",
+      "name": "Tv",
+      "photo": "pl6.jpg",
+      "details": "Top Slim Tvs Sales",
+      "price": 99000,
+      "sellerid": "1"
+    },
+    {
+      "id": "11",
+      "name": "Mobile",
+      "photo": "pl7.jpeg",
+      "details": "Best of Women",
+      "price": 599,
+      "sellerid": "1"
+    },
+    {
+      "id": "12",
+      "name": "Mouse",
+      "photo": "pl8.jpeg",
+      "details": "Top Most Mouse",
+      "price": 300,
+      "sellerid": "1"
+    },
+    {
+      "id": "13",
+      "name": "Bag",
+      "photo": "pl9.webp",
+      "details": "Sutable for only colleges",
+      "price": 700,
+      "sellerid": "1"
+    },
+    {
+      "id": "15",
+      "name": "Watches",
+      "photo": "pl11.jpg",
+      "details": "Best for Mens",
+      "price": 599,
+      "sellerid": "1"
+    },
+    {
+      "name": "Keypad",
+      "price": "500",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFoVKlLzGXWu_lwLRnJGYdXO9A1caVeKT1Dw&usqp=CAU",
+      "details": "Best Keypad",
+      "id": "16"
+    },
+    {
+      "name": "shirt",
+      "price": "200",
+      "photo": "data:image/jpeg;base64,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",
+      "details": "Mens Shirt",
+      "sellerid": "1",
+      "id": "17"
+    }
+  ]
+}
