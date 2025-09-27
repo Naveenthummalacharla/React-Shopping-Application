@@ -1,9 +1,9 @@
-1. Open 2 folders in vs code
-
-2. Right click on APi Folder
-3. Select Open in Integrated Terminal
-4. Run this command json-server --watch data.json --port 1234
-5. After that Do Bellow Instructions
-
-6. Right Click on Shopping folder and Select Open in Integrated Terminal
-7. Run this command "npm start"
+1. Clone the project into System
+2. Open CMD in Vs Code and RUn this command npm install 9or) npm install --force
+3. Open 2 folders in vs code
+4.  Right click on APi Folder
+5. Select Open in Integrated Terminal
+6. Run this command json-server --watch data.json --port 1234
+7. After that Do Bellow Instructions
+8. Right Click on Shopping folder and Select Open in Integrated Terminal
+9. Run this command npm start
