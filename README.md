@@ -1,9 +1,9 @@
-Open 2 folders in vs code
+1. Open 2 folders in vs code
 
-Right click on APi Folder
-Select Open in Integrated Terminal
-Run this command json-server --watch data.json --port 1234
-After that Do Bellow Instructions
+2. Right click on APi Folder
+3. Select Open in Integrated Terminal
+4. Run this command json-server --watch data.json --port 1234
+5. After that Do Bellow Instructions
 
-Right Click on Shopping folder and Select Open in Integrated Terminal
-Run this command "npm start"
+6. Right Click on Shopping folder and Select Open in Integrated Terminal
+7. Run this command "npm start"
